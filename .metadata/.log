@@ -372,3 +372,21 @@ Caused by: java.lang.NoSuchMethodError: org/eclipse/ui/internal/WorkbenchWindow.
 	at org.eclipse.swt.widgets.RunnableLock.run(RunnableLock.java:35)
 	at org.eclipse.swt.widgets.Synchronizer.runAsyncMessages(Synchronizer.java:182)
 	... 24 more
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-24 15:21:01.904
+!MESSAGE Duplicate template id: 'com.ibm.team.process.internal.ide.ui.settings.templates.RoleDefinitions'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-24 15:21:01.976
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-24 15:21:01.976
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-24 15:21:02.144
+!MESSAGE Duplicate template id: 'com.ibm.team.process.internal.ide.ui.settings.templates.RoleDefinitions'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-24 15:21:02.196
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.number'
+
+!ENTRY org.eclipse.jface.text 2 0 2018-07-24 15:21:02.200
+!MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
